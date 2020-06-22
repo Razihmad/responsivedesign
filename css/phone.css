@@ -38,3 +38,7 @@
 #home::before{
     height: 42%;
 }
+#home h1{
+    position: relative;
+    top: 100px;
+}
