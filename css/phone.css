@@ -1,0 +1,40 @@
+#navbar{
+    flex-direction: column;
+    justify-content: center;
+}
+#home p{
+    margin: -4px -15px;
+    font-size: 12px;
+}
+#home::before{
+    height: 100px;
+}
+#services{
+    flex-direction: column;
+}
+#services div{
+    margin-top: 20px;
+    width: 374px;
+}
+#testimonial{
+    flex-direction: column;
+}
+.logo{
+    flex-direction: column;
+     position: relative; 
+     right: 40px;
+}
+.pages{
+    position: relative;
+    bottom: 100px;
+    right: 70px;
+}
+.contact{
+    position: relative;
+    right: 80px;
+    bottom: 10px;
+    /* overflow: hidden; */
+}
+#home::before{
+    height: 42%;
+}
